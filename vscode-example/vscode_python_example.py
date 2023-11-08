@@ -3,6 +3,9 @@ print ("Beginning of the vscode_python_example.py file by JG!!")
 
 print("Hello again JG")
 
+# =============  This comment is after the Branch creation ============
+print ("First change after the branch has been created")
+
 def test():
     """this is a test function
     """
