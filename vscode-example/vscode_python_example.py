@@ -1,6 +1,8 @@
 print("Hello World from JG!!")
 print ("Beginning of the vscode_python_example.py file by JG!!")
 
+print("Hello again JG")
+
 def test():
     """this is a test function
     """
